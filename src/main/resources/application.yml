@@ -1,0 +1,7 @@
+spring:
+  redis:
+    host: localhost
+    port: 6379
+  # 关闭spring 启动动画
+  main:
+    banner-mode: off
